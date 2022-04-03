@@ -1,3 +1,3 @@
 # OneBitCode-FlexContainerExercicio
 
-Exercicio simples realizado para estar obtendo conhecimentos em Flex Container no CSS3, exercicio de responsividade.
+Exercício de responsividade.simples realizado para estar obtendo conhecimentos em Flex Container no CSS3.
